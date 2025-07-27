@@ -1,17 +1,17 @@
 ## Partipações em livestreams da Embarcados
 
 ### Primeira bancada do Embarcados: 01 - Como montar sua bancada eletrônica (10/03/2023)
-[LinkedIn](https://www.linkedin.com/events/cafecomembarcados-0x2a7031237812507054080/theater/)
+[LinkedIn](https://www.linkedin.com/events/cafecomembarcados-0x2a7031237812507054080/theater/)\
 [YouTube](https://www.youtube.com/watch?v=gAoBOeiVkk4)
 
 ### 0x2A - Desenvolvimento de Hardware e Firmware
-[LinkedIn](https://www.linkedin.com/events/bancadadoembarcados01-comomonta7038615118091292672/theater/)
+[LinkedIn](https://www.linkedin.com/events/bancadadoembarcados01-comomonta7038615118091292672/theater/)\
 [YouTube](https://www.youtube.com/watch?v=cc8MQmx5l-Q)
 
 ### 74 - Osciloscópio na Prática: Escolha, Uso e Aplicações Essenciais
-[LinkedIn](https://www.linkedin.com/events/7294797349606875136/comments/)
+[LinkedIn](https://www.linkedin.com/events/7294797349606875136/comments/)\
 [YouTube](https://www.youtube.com/watch?v=UEiQRs6ZJG8)
 
 ### 86 - Simuladores de circuitos eletrônicos: Softwares profissionais e alternativas gratuitas
-[LinkedIn](https://www.linkedin.com/events/7333583158786871297/comments/)
+[LinkedIn](https://www.linkedin.com/events/7333583158786871297/comments/)\
 [YouTube](https://www.youtube.com/watch?v=itB-k2lzqZc)
