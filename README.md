@@ -18,4 +18,4 @@
 
 ### 92 - Ferramentas, Materiais e Técnicas para Soldagem SMD (01/08/2025)
 [LinkedIn](https://www.linkedin.com/events/7356459352548896770/comments/)\
-[YouTube]()
+[YouTube](https://www.youtube.com/watch?v=QLs1zjqfEUY)
