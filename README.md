@@ -1,5 +1,5 @@
 # Partipações na Bancada do Embarcados
-Aqui você encontra links para todas as minhas participações na Bancada do Embarcados, assim como pdf de refereência.
+Aqui você encontra links para as minhas participações na Bancada do Embarcados com PDFs de referência:
 
 ### 01 - Como montar sua bancada eletrônica (10/03/2023)
 [LinkedIn](https://www.linkedin.com/events/cafecomembarcados-0x2a7031237812507054080/theater/)\
