@@ -20,3 +20,7 @@ Aqui você encontra links para as minhas participações na Bancada do Embarcado
 ### 92 - Ferramentas, Materiais e Técnicas para Soldagem SMD (01/08/2025)
 [LinkedIn](https://www.linkedin.com/events/7356459352548896770/comments/)\
 [YouTube](https://www.youtube.com/watch?v=QLs1zjqfEUY)
+
+### 95 - Retrabalho de Componentes SMD: 3 Técnicas na Prática (22/08/2025)
+[LinkedIn](https://www.linkedin.com/events/7363920835490758656/)\
+[YouTube](https://www.youtube.com/watch?v=bqORt0bTLVk)
