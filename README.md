@@ -29,6 +29,6 @@ Aqui você encontra links para as minhas participações na Bancada do Embarcado
 [YouTube](https://www.youtube.com/watch?v=bqORt0bTLVk)
 
 ## Live mensal da Bancada do Embarcados
-### 100 - Retrabalho de Componentes SMD: 3 Técnicas na Prática (22/08/2025)
+### 100 - Baterias de Li-Ion DIY: Construindo Protótipos e Reformando Ferramentas (26/09/2025)
 [LinkedIn](https://www.linkedin.com/events/7375965288208556032/)\
 [YouTube]()
