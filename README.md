@@ -1,5 +1,8 @@
-# Partipações na Bancada do Embarcados
+# Minhas participações com o pessoal da Embarcados
+
 Aqui você encontra links para as minhas participações na Bancada do Embarcados com PDFs de referência:
+
+## Partipações esporádicas
 
 ### 01 - Como montar sua bancada eletrônica (10/03/2023)
 [LinkedIn](https://www.linkedin.com/events/cafecomembarcados-0x2a7031237812507054080/theater/)\
@@ -24,3 +27,8 @@ Aqui você encontra links para as minhas participações na Bancada do Embarcado
 ### 95 - Retrabalho de Componentes SMD: 3 Técnicas na Prática (22/08/2025)
 [LinkedIn](https://www.linkedin.com/events/7363920835490758656/)\
 [YouTube](https://www.youtube.com/watch?v=bqORt0bTLVk)
+
+## Live mensal da Bancada do Embarcados
+### 100 - Retrabalho de Componentes SMD: 3 Técnicas na Prática (22/08/2025)
+[LinkedIn](https://www.linkedin.com/events/7375965288208556032/)\
+[YouTube]()
