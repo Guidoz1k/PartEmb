@@ -31,4 +31,4 @@ Aqui você encontra links para as minhas participações na Bancada do Embarcado
 ## Live mensal da Bancada do Embarcados
 ### 100 - Baterias de Li-Ion DIY: Construindo Protótipos e Reformando Ferramentas (26/09/2025)
 [LinkedIn](https://www.linkedin.com/events/7375965288208556032/)\
-[YouTube]()
+[YouTube](https://www.youtube.com/watch?v=sbvnyrhrSZg)
