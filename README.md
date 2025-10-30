@@ -2,7 +2,7 @@
 
 Aqui você encontra links para as minhas participações na Bancada do Embarcados com PDFs de referência:
 
-## Partipações esporádicas
+## ---=== Partipações esporádicas ===---
 
 ### 01 - Como montar sua bancada eletrônica (10/03/2023)
 [LinkedIn](https://www.linkedin.com/events/cafecomembarcados-0x2a7031237812507054080/theater/)\
@@ -28,7 +28,13 @@ Aqui você encontra links para as minhas participações na Bancada do Embarcado
 [LinkedIn](https://www.linkedin.com/events/7363920835490758656/)\
 [YouTube](https://www.youtube.com/watch?v=bqORt0bTLVk)
 
-## Live mensal da Bancada do Embarcados
+## ---=== Live mensal da Bancada do Embarcados ===---
+
 ### 100 - Baterias de Li-Ion DIY: Construindo Protótipos e Reformando Ferramentas (26/09/2025)
 [LinkedIn](https://www.linkedin.com/events/7375965288208556032/)\
 [YouTube](https://www.youtube.com/watch?v=sbvnyrhrSZg)
+
+### 103 - Análise e Especificação de Equipamentos para sua Bancada de Eletrônica (31/10/2025)
+[LinkedIn](https://www.linkedin.com/events/7389661558374674434/)\
+[YouTube](https://www.youtube.com/watch?v=gZjn_Jx4kgM)
+
