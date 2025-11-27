@@ -40,4 +40,4 @@ Aqui você encontra links para as minhas participações na Bancada do Embarcado
 
 ### 107 - Como Migrar Seu Projeto ESP32 do Arduino para o ESP-IDF (28/11/2025)
 [LinkedIn](https://www.linkedin.com/events/7399515114414002177/)\
-[YouTube]()
+[YouTube](https://www.youtube.com/watch?v=ETXMZPCq2b8)
